@@ -1,3 +1,6 @@
 #!/bin/bash
 
-ls # stuff
+ls -la # stuff
+
+echo hello
+echo world
